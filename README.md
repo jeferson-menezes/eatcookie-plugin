@@ -1,7 +1,5 @@
 # Settings Page WordPress Plugin
 
-![Plugin Settings Form](https://blog.wplauncher.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-05-at-2.41.54-PM.png)
-
 Este é um plugin do WordPress que cria uma página de configurações. A página de configurações permite que usuários administradores do WordPress adicionem suas configurações para um plug-in.
 Exibe uma notificação para o cliente do site sobre cookies, onde o usuário pode concordar sobre os termos, e é armazenado, todos os parâmetros são configuravéis na página de administração do plugin. 
 
